@@ -1,4 +1,4 @@
-# Movie Video Chat Application.
+# Video Chat Application.
 
 ## Overview
 
